@@ -8,3 +8,10 @@ python src/model.py ~/Coding/Portfolio/Fraudulent_Transactions/mlp/data/creditca
 
 where args are input_data, predictions, model  
 * Datasets are too large for GitHub. Only a sample of input is included & predictions output is not included. 
+
+### Methods ###
+* Exploratory Data Analysis
+* Data Cleaning
+* Feature Engineering
+* Train on Model
+* Package
